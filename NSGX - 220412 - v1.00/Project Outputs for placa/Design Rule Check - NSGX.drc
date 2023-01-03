@@ -1,0 +1,21 @@
+Protel Design System Design Rule Check
+PCB File : C:\RAY\Mis Documentos\Proyectos 2022\2022_02_18 - ADRIAN J. MONTERO\NSGX - 220412 - v1.00\NSGX.pcb
+Date     : 21/04/2022
+Time     : 11:41:17
+
+Processing Rule : Clearance Constraint (Gap=12mil) (OnCopper),(OnCopper)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (OnCopper),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=14mil) (Air Gap=12mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00

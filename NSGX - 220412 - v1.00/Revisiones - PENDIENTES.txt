@@ -1,0 +1,6 @@
+###########
+#  V1.00  #
+###########
+- Serigrafia en conector DS18B20 erronea, intercambiar 0V y +3V3
+
+
